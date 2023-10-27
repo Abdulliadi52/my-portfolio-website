@@ -199,7 +199,7 @@ a.active {
     opacity: 0;
   }
   to {
-    width: 60%;
+    width: 100%;
     transform: perspective(500px) rotateY(0deg);
     opacity: 1;
   }
