@@ -159,6 +159,7 @@ a.active {
 .home-container {
   height: calc(100vh - 3rem);
   align-items: center;
+  overflow: hidden;
 }
 .home-data {
   display: flex;
@@ -589,7 +590,7 @@ section {
     width: initial;
   }
 }
-@media screen and (min-width: 750px) {
+@media screen and (min-width: 850px) {
   .home-button {
     width: initial;
   }
